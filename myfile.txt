@@ -13,5 +13,5 @@ Hey... Friends...
 --- git Feature Test ---
 
 
-<<<<<<< HEAD
+
 Im Akshay Santhosh

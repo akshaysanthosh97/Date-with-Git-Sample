@@ -1,0 +1,6 @@
+
+
+----- This is feature files a branch named in git -----
+
+
+Just an new feature 1 
